@@ -2,11 +2,11 @@
   "v": 2,
   "doc_id": "5e1e388685c7c6c3fb83ca67e9c56a10",
   "source_path": "shared.md",
-  "head": "845eff7a15861c8686e659722d3865edd42e9342",
+  "head": "c4c339cd6c9cd22acd16546196a75712385ea3b7",
   "head_type": "shadow-manifest",
   "codec": "yjs",
   "codec_version": "v1",
-  "text_checksum": "0e9303e04764eca10871ed86e7f48eac1d7cbe86143dd132441867adbcddf495",
+  "text_checksum": "a490cc7173e4875d28a0a47bac1a36378549eb272107441fa9f2bdf83dc49684",
   "hydration": {
     "newline": "lf",
     "charset": "utf-8"
