@@ -2,7 +2,7 @@
   "v": 2,
   "doc_id": "5e1e388685c7c6c3fb83ca67e9c56a10",
   "source_path": "shared.md",
-  "head": "c4c339cd6c9cd22acd16546196a75712385ea3b7",
+  "head": "5db6364b1176acc494c4d8b64ea335461d359d83",
   "head_type": "shadow-manifest",
   "codec": "yjs",
   "codec_version": "v1",
