@@ -1,0 +1,1 @@
+*.md filter=git-shadow merge=git-shadow diff=git-shadow
